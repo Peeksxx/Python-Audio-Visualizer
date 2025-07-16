@@ -26,7 +26,7 @@ You can install them all with a simple command:
 `pip install numpy sounddevice PyQt5 pyqtgraph`
 
 ## Running the program:
-Literally just open up a command prompt in the same directory as the python file and run `python Audio Visualizer.py`
+Literally just open up a command prompt in the same directory as the python file and run `python '.\Audio Visualizer.py'`
 
 **Enjoy!**
 **Please report any problems to me on Telegram: @peeksxx**
