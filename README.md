@@ -8,7 +8,7 @@ Desktop python application that visualizes real-time audio input using a respons
 
 - Scrolling waveform history for visualizing time-based amplitude.
 
-- Stereo VU meter.
+- Stereo UV meter.
 
 - Input device selection via Windows DirectSound (including support for Stereo Mix to capture desktop audio).
 
